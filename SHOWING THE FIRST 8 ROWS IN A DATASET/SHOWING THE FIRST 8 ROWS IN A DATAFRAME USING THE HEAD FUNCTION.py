@@ -1,0 +1,1 @@
+titanic.head(8)
